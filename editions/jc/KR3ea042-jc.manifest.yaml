@@ -1,0 +1,254 @@
+canonical_identifier: bkk:krp/KR3ea042/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ea042/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 內經藥瀹
+  identifiers:
+    krp: KR3ea042
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea042.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea042_000-jc.yaml, hash: 'sha256:ba188011263f1831e190d23860d13552567d5088fbf54a6dd43388d9057ce7cc'}
+  - {seq: 1, filename: KR3ea042_001-jc.yaml, hash: 'sha256:ff6674573ec7f2c73c7e65c3d8b1685ce36cbca54cca539ca4d6d166b9c0b483'}
+  - {seq: 2, filename: KR3ea042_002-jc.yaml, hash: 'sha256:8c8e835e4130786aa7d43d57497f7aac0aaaf9442acc471632f1aefc8c61b20d'}
+  - {seq: 3, filename: KR3ea042_003-jc.yaml, hash: 'sha256:a400f8c653f45713735e4c73dc09b09826e24fbfae36d643221cd10419c26242'}
+  - {seq: 4, filename: KR3ea042_004-jc.yaml, hash: 'sha256:0140294afc36606c85abae20ccbaba558a5f84790cffc6b8f7aa40552ccdcf4f'}
+  - {seq: 5, filename: KR3ea042_005-jc.yaml, hash: 'sha256:67bbad461b03d2f761089ab6257fee28ac08bb951f3407f02a90d9386597256b'}
+  - {seq: 6, filename: KR3ea042_006-jc.yaml, hash: 'sha256:9a869220f12df907795818569939aeb246915e26d6cb8fea8df11238616d6772'}
+  - {seq: 7, filename: KR3ea042_007-jc.yaml, hash: 'sha256:21dcc5acfd10f634621445a53192c2a3cea9e1ac1f732f20b663e8c57d0757a4'}
+  - {seq: 8, filename: KR3ea042_008-jc.yaml, hash: 'sha256:d3c8f690028167e69950dab271e089d8a8a0e6bd4bb3e31b94ea1692496abc45'}
+  - {seq: 9, filename: KR3ea042_009-jc.yaml, hash: 'sha256:afa264f46026ae3bf2dd6c720b2eb5e3ba5b8fbb77eec834a768f59156c29cdf'}
+  - {seq: 10, filename: KR3ea042_010-jc.yaml, hash: 'sha256:d3ec9d7c1233fa744da3312ad0ebec57bcfc6ff76ab2af510ab1dcb17d8864c6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea042_000-jc.markers.yaml, hash: 'sha256:9d80b78e2f3a063a24e03263f83c412c6c3e571e1ed18a2ece7bc5205dd2e875'}
+  - {seq: 1, role: markers, filename: assets/KR3ea042_001-jc.markers.yaml, hash: 'sha256:8e764c1b8841ff0e9ab6073bfb6895dc4f7c788b69bbb7fa0a656b416017e593'}
+  - {seq: 2, role: markers, filename: assets/KR3ea042_002-jc.markers.yaml, hash: 'sha256:3af8e4ab80a604eac31f6a90b05d4c3dadbd5d746cd198c02f88e9d0f6460188'}
+  - {seq: 3, role: markers, filename: assets/KR3ea042_003-jc.markers.yaml, hash: 'sha256:f392d16c40ed7430bd60f1a800150c39a612a25f58ff3b9be65b402661e61013'}
+  - {seq: 4, role: markers, filename: assets/KR3ea042_004-jc.markers.yaml, hash: 'sha256:9293657d874b36ea943bd8fe50a3bd22888390660f9b7529bf88e00b716284d4'}
+  - {seq: 5, role: markers, filename: assets/KR3ea042_005-jc.markers.yaml, hash: 'sha256:95f631cd0b4ef4954781f330a8d093e250a68a15b17ebbcbb8c1c0522f075422'}
+  - {seq: 6, role: markers, filename: assets/KR3ea042_006-jc.markers.yaml, hash: 'sha256:add52a802ac265450cce7987300689c7298200dcbcfb51e2bb848125dcf9e027'}
+  - {seq: 7, role: markers, filename: assets/KR3ea042_007-jc.markers.yaml, hash: 'sha256:544dc414e53c3e2822323ed5456984efbbf2b92750c07ad60158558cc21b1533'}
+  - {seq: 8, role: markers, filename: assets/KR3ea042_008-jc.markers.yaml, hash: 'sha256:bac0c637c93f7c07ac88c3b454d8dd1295ae20a83ef6ab4ae0888fbc3467623c'}
+  - {seq: 9, role: markers, filename: assets/KR3ea042_009-jc.markers.yaml, hash: 'sha256:1a0484f725604ac3261f089d68d859a259f6dd2c2c5b351c5077f4304b2c83a3'}
+  - {seq: 10, role: markers, filename: assets/KR3ea042_010-jc.markers.yaml, hash: 'sha256:2b0012a87d0bc3cc8e40bee125d673d501a6ac3b0fc56f6fa0954654b1f51f7b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea042_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1156
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea042_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 8906
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea042_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 8906
+  label: 陰陽色氣味
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea042_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 7103
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ea042_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 7103
+  label: 氣運
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea042_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 12228
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ea042_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 12228
+  label: 五歲
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea042_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 19664
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ea042_jc_004-d6d2
+    span:
+    - body
+    - 2
+    - 19664
+  label: 六化上
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ea042_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 12654
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ea042_jc_005-d7d2
+    span:
+    - body
+    - 2
+    - 12654
+  label: 六化下
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea042_jc_006-d8.h1s1
+    span:
+    - body
+    - 0
+    - 11899
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ea042_jc_006-d8d2
+    span:
+    - body
+    - 2
+    - 11899
+  label: 五方
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ea042_jc_007-d9.h1s1
+    span:
+    - body
+    - 0
+    - 13008
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ea042_jc_007-d9d2
+    span:
+    - body
+    - 2
+    - 13008
+  label: 水穀
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ea042_jc_008-d10.h1s1
+    span:
+    - body
+    - 0
+    - 10360
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ea042_jc_008-d10d2
+    span:
+    - body
+    - 2
+    - 10360
+  label: 五宜
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ea042_jc_009-d11.h1s1
+    span:
+    - body
+    - 0
+    - 7707
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ea042_jc_009-d11d2
+    span:
+    - body
+    - 2
+    - 7707
+  label: 五過
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea042_jc_010-d12.h1s1
+    span:
+    - body
+    - 0
+    - 11291
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ea042_jc_010-d12d2
+    span:
+    - body
+    - 2
+    - 11291
+  label: 藥制
+  type: section
+  level: 2
+hash: sha256:6b2f0a9066727b41d414a46224803a73fb213277a40f06036beb8e228261d446

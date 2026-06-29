@@ -1,0 +1,13 @@
+canonical_identifier: bkk:krp/KR3ea042/bkk/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 1, content: '', id: KR3ea042_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3ea042_jc_000-d2p2}}
+  - {type: 'tls:seg', offset: 1, content: '', id: KR3ea042_jc_000-d2.p2s1}
+  - {type: substitution, offset: 48, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: substitution, offset: 987, original: 佔, replacement: 占, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0083}}
+  - {type: substitution, offset: 1057, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0294}}
+  - {type: xml-element, offset: 1156, content: '', id: KR3ea042_jc_000-d2p2_end, name: p, role: close, attrs: {'xml:id': KR3ea042_jc_000-d2p2}}
+  back: []
+hash: sha256:720dbbc65df50272bfc8097bb87b15fa0a0c35756cfe952a05e1f7d16716c372
